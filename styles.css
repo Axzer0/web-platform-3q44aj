@@ -1,0 +1,9 @@
+.inner{
+  position: absolute;
+  visibility: hidden;
+}
+
+#bt{
+  position: relative;
+  top: 50px;
+}
